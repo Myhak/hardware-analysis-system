@@ -1,0 +1,43 @@
+# C# / .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+.vs/
+
+# C++
+build/
+*.o
+*.so
+*.a
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests
+TestResults/
+coverage/
+*.coverage
+
+# Logs
+*.log
+*.tmp
